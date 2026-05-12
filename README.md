@@ -1,6 +1,6 @@
-# 🇮🇳 Awesome Indian SME Tools
+# Awesome Indian SME Tools
 
-> A curated list of open-source tools, libraries, and resources for building software that helps Indian small & medium businesses — and HNIs — grow across CRM, marketing, finance, supply chain, content, and global trade.
+> Curated open-source tools, libraries, and APIs for building software that helps Indian small & medium businesses grow — CRM, GST compliance, WhatsApp automation, payments, supply chain, and more.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
@@ -8,7 +8,7 @@
 
 **[🌐 Project Site](https://challanamuskan.github.io/sme-tools)** · **[Builder Portfolio](https://muskanchallana.vercel.app)**
 
-Indian SMEs are the backbone of the economy — 63 million businesses, most still running on paper registers and WhatsApp threads. This list exists to change that across every dimension of how a business grows.
+63 million Indian businesses. Most still running on paper registers and WhatsApp threads. This list exists to change that.
 
 ---
 
@@ -36,9 +36,10 @@ Indian SMEs are the backbone of the economy — 63 million businesses, most stil
 
 ## Our Own Tools
 
-Built and maintained by [Muskan Challana](https://muskanchallana.vercel.app) — freelance AI/CRM builder for Indian SMEs (DPIIT-registered venture):
+Built and maintained by [Muskan Challana](https://muskanchallana.vercel.app) — freelance AI/CRM developer for Indian SMEs (DPIIT-registered):
 
-- **[indian-sme-crm-template](https://github.com/challanamuskan/indian-sme-crm-template)** ⭐ — Full business OS for Indian SMEs: CRM, GST invoices, stock, WhatsApp orders, compliance calendar, marketing, supply chain, finance P&L, global export tools. [Live Demo →](https://crm-template.streamlit.app)
+- **[shree-tex-fabb-crm](https://github.com/challanamuskan/shree-tex-fabb-crm)** ⭐ — Production CRM for Satyam Tex Fabb (30-year textile dealer, Bhilwara). 2,000+ SKUs, Supabase PostgreSQL, OCR, WhatsApp alerts. [Live →](https://satyamtexfab-crm.streamlit.app)
+- **[indian-sme-crm-template](https://github.com/challanamuskan/indian-sme-crm-template)** ⭐ — Fork-and-deploy CRM template (Google Sheets backend). Full stock, sales, payments, MIS. [Live Demo →](https://satyam-tex-fabb.streamlit.app)
 - **[sme-inbox-parser](https://github.com/challanamuskan/sme-inbox-parser)** ⭐ — Parse WhatsApp chat exports, Gmail threads, and website leads into clean CRM-ready CSV. CLI + Streamlit UI.
 - **[awesome-indian-sme-tools](https://github.com/challanamuskan/awesome-indian-sme-tools)** ⭐ — This list.
 
@@ -191,8 +192,6 @@ Built and maintained by [Muskan Challana](https://muskanchallana.vercel.app) —
 
 ## HNI & Wealth Management Tools
 
-> Tools for high-net-worth individuals and their portfolio businesses.
-
 - **[ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)** — Self-hosted wealth management: stocks, MF, ETF, crypto. INR + NSE/BSE support.
 - **[firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)** — Personal finance manager for HNIs with multiple income streams and businesses.
 - **[portfolio-performance](https://github.com/portfolio-performance/portfolio)** — Java-based portfolio tracker. Used by HNIs for equity + MF performance tracking.
@@ -218,12 +217,6 @@ Found a tool that belongs here? PRs welcome. See [CONTRIBUTING.md](CONTRIBUTING.
 
 Format: `**[name](url)** — one-line description. Must be open source and India-relevant.`
 
-New sections welcome — if your tool covers a growth pillar not listed, propose it in your PR.
-
 ---
 
-## About
-
-Maintained by [Muskan Challana](https://muskanchallana.vercel.app) — freelance AI/CRM builder for Indian SMEs (DPIIT-registered venture). Building tools that help 63 million Indian businesses grow.
-
-*If this list saved you research time, star ⭐ it.*
+[Portfolio](https://muskanchallana.vercel.app) · [LinkedIn](https://www.linkedin.com/in/muskan-challana-408234163/) · [Email](mailto:cmuskan2068@gmail.com) · [GitHub](https://github.com/challanamuskan)
